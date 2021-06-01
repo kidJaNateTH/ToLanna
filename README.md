@@ -1,4 +1,4 @@
-# toLanna
+# ToLanna
 ### Convert **Lanna** to **Thai** and **Thai** to **Lanna**
 ### เปลื่ยน**ภาษาล้านนา**เป็น**ภาษาไทย** และ **ภาษาไทย**เป็น**ภาษาล้านนา**
 
