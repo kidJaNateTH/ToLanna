@@ -24,6 +24,17 @@ OUTPUT:
 """
 ```
 
+# Numbers
+```py
+import ToLanna
+print(ToLanna.ToLanna("เราว่ากับข้าวร้านนี้ก็อร่อยดีนะ, 20บาทเอง"))
+
+"""
+OUTPUT:
+เฮาว่ากับข้าวร้านนี้ก็ลำดีเด้อ, ซาวบาทบ่าดาย
+"""
+```
+
 # Full paragraph
 ```py
 import ToLanna
