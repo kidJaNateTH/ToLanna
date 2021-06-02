@@ -1,5 +1,5 @@
 # ToLanna
-### Convert **Lanna** (Northern Thai language)) to **Thai** and **Thai** to **Lanna**
+### Convert **Lanna** (Northern Thai language) to **Thai** and **Thai** to **Lanna**
 ### เปลื่ยน**ภาษาล้านนา**เป็น**ภาษาไทย** และ **ภาษาไทย**เป็น**ภาษาล้านนา**
 
 # ToLanna
