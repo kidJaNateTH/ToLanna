@@ -36,6 +36,3 @@ function ToLanna(content){
     });
     return lanna;
 }
-
-
-ToLanna("เราเป็นชาวเหนือ พูดภาษาเหนือได้, คุณล่ะ พูดได้มั้ย");
